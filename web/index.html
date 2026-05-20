@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>F1 AI Race Engineer</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <span class="emoji">🏎️</span>
+      <span class="title">F1 <span class="accent">AI</span> Race Engineer</span>
+    </div>
+    <div class="race-info" id="race-info">Loading...</div>
+  </header>
+
+  <main>
+    <!-- LEFT: chart + standings -->
+    <section class="panel left">
+      <div class="lap-banner">
+        <span class="lap-num" id="lap-num">--</span>
+        <span class="lap-of">/ <span id="total-laps">--</span></span>
+      </div>
+
+      <div class="chart-wrap">
+        <canvas id="lap-chart"></canvas>
+      </div>
+
+      <h3 class="panel-title">🏁 Standings</h3>
+      <table class="standings" id="standings">
+        <thead><tr><th>P</th><th>Driver</th><th>Team</th><th>Gap</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+    <!-- RIGHT: strategy + commentary -->
+    <section class="panel right">
+      <h3 class="panel-title">🧠 AI Strategy</h3>
+      <div id="strategy-list" class="strategy"></div>
+
+      <h3 class="panel-title">💬 Live Commentary</h3>
+      <div id="commentary-feed" class="commentary"></div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="controls">
+      <button id="btn-play" class="btn primary">▶ Play</button>
+      <button id="btn-restart" class="btn">⟲ Restart</button>
+      <label class="speed">
+        Speed:
+        <select id="speed">
+          <option value="2000">0.5x (2s/lap)</option>
+          <option value="1000" selected>1x</option>
+          <option value="500">2x</option>
+          <option value="200">5x</option>
+          <option value="50">20x</option>
+        </select>
+      </label>
+      <label class="race-pick">
+        Race:
+        <select id="race-pick">
+          <option value="data/race_2024_brazil.json" selected>2024 Brazil GP</option>
+        </select>
+      </label>
+    </div>
+    <div class="byline">
+      Data: FastF1 &middot; LLM: Llama 3.3 70B via Groq &middot; Built by Benny
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
