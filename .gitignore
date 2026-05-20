@@ -1,0 +1,35 @@
+# FastF1 cache (large, regenerable)
+data/cache/
+*.ff1pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models / artifacts
+models/*.pkl
+models/*.json
+!models/.gitkeep
+
+# Streamlit
+.streamlit/secrets.toml
