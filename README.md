@@ -2,7 +2,7 @@
 
 > An end-to-end AI system that replays historical Formula 1 Grand Prix with a learned tyre-degradation model recommending pit-stop strategy and a large language model generating live broadcast-style commentary.
 
-**🔴 Live demo:** *(coming soon — link will go here after GitHub Pages is enabled)*
+**🔴 Live demo:** [josh2106.github.io/f1-ai-race-engineer](https://josh2106.github.io/f1-ai-race-engineer/)
 
 ---
 
