@@ -37,28 +37,22 @@ def _gap_to_leader_seconds(lap_df: pd.DataFrame) -> dict[str, float]:
 
 
 def _build_standings_for_lap(df_to_lap: pd.DataFrame) -> list[tuple[int, str, str, float]]:
-    """Given all laps up to and including `lap`, return current standings."""
-    # latest row per driver
+    """Given all laps up to and including `lap`, return current standings.
+
+    Expects df_to_lap to already have a `cumulative_time_s` column (added
+    once upstream in `iter_race_laps` for performance).
+    """
     latest = (
         df_to_lap.sort_values("lap_number")
         .groupby("driver", as_index=False)
         .last()
     )
-    # cumulative time per driver
-    cumtime = (
-        df_to_lap.dropna(subset=["lap_time_s"])
-        .groupby("driver")["lap_time_s"]
-        .sum()
-        .rename("cumulative_time_s")
-        .reset_index()
-    )
-    merged = latest.merge(cumtime, on="driver", how="left")
-    merged = merged.dropna(subset=["cumulative_time_s"])
-    merged = merged.sort_values("cumulative_time_s")
+    latest = latest.dropna(subset=["cumulative_time_s"])
+    latest = latest.sort_values("cumulative_time_s")
 
-    leader = merged["cumulative_time_s"].iloc[0]
+    leader = latest["cumulative_time_s"].iloc[0]
     standings = []
-    for pos, (_, row) in enumerate(merged.iterrows(), 1):
+    for pos, (_, row) in enumerate(latest.iterrows(), 1):
         gap = float(row["cumulative_time_s"] - leader)
         standings.append((pos, row["driver"], row["team"], gap))
     return standings
