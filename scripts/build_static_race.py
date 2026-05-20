@@ -23,7 +23,7 @@ from src.models.pit_strategy import recommend
 from src.models.tyre_degradation import load as load_tyre_model
 from src.replay import iter_race_laps
 
-WEB_DATA = Path(__file__).resolve().parents[1] / "web" / "data"
+WEB_DATA = Path(__file__).resolve().parents[1] / "docs" / "data"
 WEB_DATA.mkdir(parents=True, exist_ok=True)
 
 

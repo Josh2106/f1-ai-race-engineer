@@ -20,7 +20,7 @@ The whole thing is **pre-rendered to a static JSON file** so the website needs n
 
 ## Demo
 
-*(Add a screenshot or GIF here once you've recorded one — call it `web/demo.png` and reference it as `![demo](web/demo.png)`)*
+*(Add a screenshot or GIF here once you've recorded one — call it `docs/demo.png` and reference it as `![demo](docs/demo.png)`)*
 
 ---
 
@@ -44,13 +44,13 @@ The whole thing is **pre-rendered to a static JSON file** so the website needs n
 │   src/commentary/engine.py     (Groq → Llama 3.3 70B)            │
 │         │                                                         │
 │         ▼                                                         │
-│   web/data/race_<year>_<gp>.json   (~100 KB per race)            │
+│   docs/data/race_<year>_<gp>.json   (~100 KB per race)            │
 └──────────────────────────────────────────────────────────────────┘
                               │
                               ▼
 ┌──────────────────────────────────────────────────────────────────┐
 │                  RUNTIME (browser, no server)                     │
-│   web/index.html  +  vanilla JS  +  Chart.js (CDN)                │
+│   docs/index.html  +  vanilla JS  +  Chart.js (CDN)                │
 │   plays the JSON back lap-by-lap with animated UI                 │
 └──────────────────────────────────────────────────────────────────┘
 ```
@@ -150,7 +150,7 @@ python scripts/strategy_report_card.py
 python scripts/build_static_race.py --year 2024 --gp Brazil --driver VER
 
 # 6. Serve the static site locally
-cd web
+cd docs
 python -m http.server 8000
 # Open http://localhost:8000
 ```
@@ -167,7 +167,7 @@ f1-ai-race-engineer/
 │   ├── commentary/    # Groq LLM persona + race-state formatter
 │   └── replay/        # Lap-by-lap event detection
 ├── scripts/           # CLI utilities (train, evaluate, build)
-├── web/               # Static site (deploys to GitHub Pages)
+├── docs/               # Static site (deploys to GitHub Pages)
 │   ├── index.html
 │   ├── styles.css
 │   ├── app.js
