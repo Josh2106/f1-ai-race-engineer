@@ -189,7 +189,7 @@ def recommend(
                                      candidate_pit_laps, candidate_compounds)
 
     for s in strategies:
-        simulate_strategy(s, team=team, track=track, year=year, model=model)
+        simulate_strategy(model, s, team=team, track=track, year=year)
 
     strategies.sort(key=lambda s: s.projected_total_s)
     return strategies[:top_k]
