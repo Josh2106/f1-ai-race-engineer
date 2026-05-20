@@ -22,6 +22,14 @@ from src.models.tyre_degradation import (
     predict_lap_time,
 )
 
+
+def _batch_predict(model, rows: pd.DataFrame) -> list[float]:
+    """Predict lap times for many rows in one call. Much faster than per-row."""
+    df = rows.copy()
+    for col in CATEGORICAL_COLS:
+        df[col] = df[col].astype("category")
+    return list(model.predict(df[NUMERIC_COLS + CATEGORICAL_COLS]))
+
 # Track-level pit loss in seconds (time lost in pit lane vs. staying out).
 # Real numbers from team data / public estimates. Defaults to 22s.
 PIT_LOSS_S = {
@@ -83,32 +91,31 @@ def simulate_strategy(
     track: str,
     year: int,
 ) -> Strategy:
-    """Run a single strategy through the tyre model and fill in projected_total_s."""
+    """Run a single strategy through the tyre model and fill in projected_total_s.
+
+    Implementation: builds a single DataFrame for ALL laps in the strategy
+    and runs ONE batched XGBoost prediction. ~100x faster than per-lap calls.
+    """
     pit_loss = PIT_LOSS_S.get(track, 22.0)
 
-    total = 0.0
-    breakdown: list[float] = []
-
-    for stint_idx, stint in enumerate(strategy.stints):
+    rows = []
+    for stint in strategy.stints:
         for offset, lap in enumerate(range(stint.start_lap, stint.end_lap + 1)):
             tyre_age = offset + COMPOUND_FRESH_LIFE.get(stint.compound, 1.0)
-            lap_time = predict_lap_time(
-                model,
-                compound=stint.compound,
-                tyre_life=tyre_age,
-                lap_number=lap,
-                team=team,
-                track=track,
-                year=year,
-            )
-            total += lap_time
-            breakdown.append(lap_time)
-        # Pit loss after every stint except the last
-        if stint_idx < len(strategy.stints) - 1:
-            total += pit_loss
+            rows.append({
+                "tyre_life": tyre_age,
+                "lap_number": lap,
+                "year": year,
+                "compound": stint.compound,
+                "team": team,
+                "track": track,
+            })
+
+    preds = _batch_predict(model, pd.DataFrame(rows))
+    total = float(sum(preds)) + pit_loss * (len(strategy.stints) - 1)
 
     strategy.projected_total_s = total
-    strategy.per_lap_breakdown = breakdown
+    strategy.per_lap_breakdown = preds
     return strategy
 
 
