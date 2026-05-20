@@ -45,20 +45,24 @@ def _prep(df: pd.DataFrame) -> pd.DataFrame:
 
 def plot_degradation_curves(model) -> None:
     """For each compound at a representative track, plot predicted lap time
-    as the tyre ages from 1 to 35 laps. This shows what the model 'thinks'
-    each compound's degradation behavior is.
+    as the tyre ages from 1 to 35 laps.
+
+    Important: we hold lap_number CONSTANT (mid-race) and vary only tyre_life.
+    This isolates pure tyre-age effect. If we let lap_number = tyre_life, we
+    instead measure a tangled correlation between tyre age and race position.
     """
     compounds = ["SOFT", "MEDIUM", "HARD"]
     ages = np.arange(1, 36)
     track = "Silverstone"     # high-deg track makes the curves clearly different
     team = "Mercedes"
     year = 2024
+    fixed_lap = 30            # Mid-race; well-represented in training data
 
     fig, ax = plt.subplots(figsize=(9, 5))
     for compound in compounds:
         rows = pd.DataFrame({
             "tyre_life": ages,
-            "lap_number": ages,
+            "lap_number": fixed_lap,       # HELD CONSTANT
             "year": year,
             "compound": compound,
             "team": team,
@@ -70,7 +74,10 @@ def plot_degradation_curves(model) -> None:
 
     ax.set_xlabel("Tyre age (laps)")
     ax.set_ylabel("Predicted fuel-adjusted lap time (s)")
-    ax.set_title(f"What the model learned about tyres\n({track}, {team}, {year})")
+    ax.set_title(
+        f"What the model learned about tyres\n"
+        f"({track}, {team}, {year}, lap_number held at {fixed_lap})"
+    )
     ax.legend()
     ax.grid(alpha=0.3)
     fig.tight_layout()
