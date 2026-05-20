@@ -1,0 +1,4726 @@
+{
+  "meta": {
+    "year": 2024,
+    "gp": "Brazil",
+    "total_laps": 69,
+    "focus_driver": "VER",
+    "focus_team": "Red Bull Racing",
+    "starting_compound": "INTERMEDIATE",
+    "commentary_events": 25
+  },
+  "strategy": [
+    {
+      "rank": 1,
+      "summary": "2-stop  INT L1-10 | SOF L11-28 | MED L29-69  total=5681.9s",
+      "stops": 2,
+      "total_s": 5681.9
+    },
+    {
+      "rank": 2,
+      "summary": "2-stop  INT L1-10 | SOF L11-30 | MED L31-69  total=5682.7s",
+      "stops": 2,
+      "total_s": 5682.7
+    },
+    {
+      "rank": 3,
+      "summary": "2-stop  INT L1-10 | SOF L11-26 | MED L27-69  total=5684.3s",
+      "stops": 2,
+      "total_s": 5684.3
+    }
+  ],
+  "laps": [
+    {
+      "lap": 1,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1.29
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 3.23
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 3.95
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 4.45
+        },
+        {
+          "pos": 6,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 5.48
+        },
+        {
+          "pos": 7,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 6.13
+        },
+        {
+          "pos": 8,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 6.8
+        },
+        {
+          "pos": 9,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 7.54
+        },
+        {
+          "pos": 10,
+          "driver": "HAM",
+          "team": "Mercedes",
+          "gap": 8.36
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 2,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1.69
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 3.78
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 4.52
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 5.17
+        },
+        {
+          "pos": 6,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 6.48
+        },
+        {
+          "pos": 7,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 7.52
+        },
+        {
+          "pos": 8,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 8.11
+        },
+        {
+          "pos": 9,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 9.06
+        },
+        {
+          "pos": 10,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 9.98
+        }
+      ],
+      "events": [
+        {
+          "type": "fastest_lap",
+          "driver": "RUS",
+          "text": "RUS is already stamping his authority on this Brazilian Grand Prix, setting the fastest lap of the race so far with a 85.804s. The Mercedes is looking mighty out front, with RUS pulling clear of NOR in the McLaren. He's got a 1.7 second cushion already, and it's going to take something special to reel him back in."
+        }
+      ]
+    },
+    {
+      "lap": 3,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1.49
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 4.2
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 5.26
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 5.78
+        },
+        {
+          "pos": 6,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 7.23
+        },
+        {
+          "pos": 7,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 8.15
+        },
+        {
+          "pos": 8,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 9.48
+        },
+        {
+          "pos": 9,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 10.13
+        },
+        {
+          "pos": 10,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 10.62
+        }
+      ],
+      "events": [
+        {
+          "type": "fastest_lap",
+          "driver": "NOR",
+          "text": "Norriss is flying, just set the fastest lap of the race so far, a 85.402s, that's got to be a statement of intent from the McLaren man. He's right on the tail of Russell, just a second and a half behind the leader, this is already shaping up to be a cracking battle for the top spot. The Mercedes is going to have to respond to that kind of pace if they want to stay ahead."
+        }
+      ]
+    },
+    {
+      "lap": 4,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1.02
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 3.98
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 5.32
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 6.3
+        },
+        {
+          "pos": 6,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 7.8
+        },
+        {
+          "pos": 7,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 8.42
+        },
+        {
+          "pos": 8,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 10.56
+        },
+        {
+          "pos": 9,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 11.35
+        },
+        {
+          "pos": 10,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 11.68
+        }
+      ],
+      "events": [
+        {
+          "type": "fastest_lap",
+          "driver": "NOR",
+          "text": "Norriss is flying, just set the fastest lap of the race so far with an 85.165, that's a mighty impressive effort from the McLaren man. He's right on the tail of Rusell, just a second behind the leader, this is turning into a real battle for the top spot. The Mercedes is going to have to respond if they want to keep Norriss at bay."
+        }
+      ]
+    },
+    {
+      "lap": 5,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 0.71
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 4.09
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 5.42
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 6.0
+        },
+        {
+          "pos": 6,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 7.85
+        },
+        {
+          "pos": 7,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 8.65
+        },
+        {
+          "pos": 8,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 11.29
+        },
+        {
+          "pos": 9,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 11.75
+        },
+        {
+          "pos": 10,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 12.84
+        }
+      ],
+      "events": [
+        {
+          "type": "fastest_lap",
+          "driver": "NOR",
+          "text": "Norriss is putting the pressure on, sets the fastest lap of the race so far with an 85.012, that's going to be a tough one to beat. Rusell's still out in front, but Norriss is right on his tail, just seven tenths of a second behind. The McLaren is looking quick, can Rusell respond to this challenge from the McLaren driver?"
+        }
+      ]
+    },
+    {
+      "lap": 6,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 0.96
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 4.32
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 5.76
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 6.41
+        },
+        {
+          "pos": 6,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 8.25
+        },
+        {
+          "pos": 7,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 9.18
+        },
+        {
+          "pos": 8,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 11.39
+        },
+        {
+          "pos": 9,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 13.06
+        },
+        {
+          "pos": 10,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 13.77
+        }
+      ],
+      "events": [
+        {
+          "type": "fastest_lap",
+          "driver": "VER",
+          "text": "Verstappen's just pumped in the fastest lap of the race so far, a 84.311, he's clearly got pace in that Red Bull. He's still down in eighth but this is a statement of intent from the Dutchman, he's not giving up on this one. The question is can he use this speed to start making his way through the field, Tsunoda and the rest will be looking in their mirrors."
+        }
+      ]
+    },
+    {
+      "lap": 7,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1.11
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 4.49
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 6.29
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 6.91
+        },
+        {
+          "pos": 6,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 8.81
+        },
+        {
+          "pos": 7,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 9.69
+        },
+        {
+          "pos": 8,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 10.88
+        },
+        {
+          "pos": 9,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 13.47
+        },
+        {
+          "pos": 10,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 14.24
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 8,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 0.97
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 5.18
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 6.65
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 7.4
+        },
+        {
+          "pos": 6,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 9.46
+        },
+        {
+          "pos": 7,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 10.43
+        },
+        {
+          "pos": 8,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 10.95
+        },
+        {
+          "pos": 9,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 13.59
+        },
+        {
+          "pos": 10,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 14.88
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 9,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1.12
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 5.78
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 7.07
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 7.84
+        },
+        {
+          "pos": 6,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 9.9
+        },
+        {
+          "pos": 7,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 11.06
+        },
+        {
+          "pos": 8,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 11.49
+        },
+        {
+          "pos": 9,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 14.05
+        },
+        {
+          "pos": 10,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 15.75
+        }
+      ],
+      "events": [
+        {
+          "type": "fastest_lap",
+          "driver": "RUS",
+          "text": "RUS is absolutely flying out there, a new fastest lap of 84.238 seconds, he's extending his lead over NOR. The Mercedes is looking very strong, RUS is making the most of those softs, pulling away from the rest of the field. NOR in second is holding on, but he's got to find a way to match RUS's pace if he wants to stay in touch."
+        }
+      ]
+    },
+    {
+      "lap": 10,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 0.91
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 6.08
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 7.27
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 8.21
+        },
+        {
+          "pos": 6,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 10.58
+        },
+        {
+          "pos": 7,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 11.21
+        },
+        {
+          "pos": 8,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 12.52
+        },
+        {
+          "pos": 9,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 15.23
+        },
+        {
+          "pos": 10,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 16.47
+        }
+      ],
+      "events": [
+        {
+          "type": "fastest_lap",
+          "driver": "VER",
+          "text": "Verstappen's just thrown down the gauntlet with the fastest lap of the race so far, a 84.015s. He's still down in seventh but that's a statement of intent from the Red Bull driver. The Mercedes of RUS still leads but Verstappen's pace will be a concern for the teams ahead."
+        }
+      ]
+    },
+    {
+      "lap": 11,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1.09
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 7.1
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 8.12
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 8.72
+        },
+        {
+          "pos": 6,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 11.44
+        },
+        {
+          "pos": 7,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 12.67
+        },
+        {
+          "pos": 8,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 13.39
+        },
+        {
+          "pos": 9,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 15.99
+        },
+        {
+          "pos": 10,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 17.37
+        }
+      ],
+      "events": [
+        {
+          "type": "fastest_lap",
+          "driver": "RUS",
+          "text": "RUS is flying, just set the fastest lap of the race so far with a 83.928, that's a blistering pace from the Mercedes man. He's extending his lead over NOR, who's having to push hard just to stay in touch with the leader. The softs are clearly working well for RUS, he's got a comfortable gap now."
+        }
+      ]
+    },
+    {
+      "lap": 12,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 0.95
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 7.76
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 8.54
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 9.25
+        },
+        {
+          "pos": 6,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 10.65
+        },
+        {
+          "pos": 7,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 13.29
+        },
+        {
+          "pos": 8,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 14.0
+        },
+        {
+          "pos": 9,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 16.43
+        },
+        {
+          "pos": 10,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 19.31
+        }
+      ],
+      "events": [
+        {
+          "type": "fastest_lap",
+          "driver": "VER",
+          "text": "Verstappen's just thrown down the gauntlet, a blistering fastest lap of 83.430 seconds, that's going to put the cat among the pigeons. He's still down in sixth but that kind of pace suggests he's got the bit between his teeth now. The Red Bull's looking quick, can he start to make inroads on those ahead of him, particularly teammate Tsunoda in third?"
+        }
+      ]
+    },
+    {
+      "lap": 13,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1.0
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 8.26
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 8.8
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 9.53
+        },
+        {
+          "pos": 6,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 10.49
+        },
+        {
+          "pos": 7,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 13.83
+        },
+        {
+          "pos": 8,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 14.52
+        },
+        {
+          "pos": 9,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 16.65
+        },
+        {
+          "pos": 10,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 19.57
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 14,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 0.97
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 8.63
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 9.38
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 10.01
+        },
+        {
+          "pos": 6,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 10.82
+        },
+        {
+          "pos": 7,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 14.18
+        },
+        {
+          "pos": 8,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 15.36
+        },
+        {
+          "pos": 9,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 16.98
+        },
+        {
+          "pos": 10,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 19.91
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 15,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1.05
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 8.88
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 9.89
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 10.28
+        },
+        {
+          "pos": 6,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 11.1
+        },
+        {
+          "pos": 7,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 14.95
+        },
+        {
+          "pos": 8,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 15.9
+        },
+        {
+          "pos": 9,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 17.17
+        },
+        {
+          "pos": 10,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 20.19
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 16,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1.55
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 9.66
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 10.95
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 11.55
+        },
+        {
+          "pos": 6,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 12.25
+        },
+        {
+          "pos": 7,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 15.95
+        },
+        {
+          "pos": 8,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 16.82
+        },
+        {
+          "pos": 9,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 20.55
+        },
+        {
+          "pos": 10,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 21.81
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 17,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 0.82
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 9.67
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 10.49
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 11.11
+        },
+        {
+          "pos": 6,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 11.87
+        },
+        {
+          "pos": 7,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 15.77
+        },
+        {
+          "pos": 8,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 16.66
+        },
+        {
+          "pos": 9,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 20.08
+        },
+        {
+          "pos": 10,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 21.61
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 18,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 0.9
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 9.79
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 10.49
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 11.03
+        },
+        {
+          "pos": 6,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 11.69
+        },
+        {
+          "pos": 7,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 16.02
+        },
+        {
+          "pos": 8,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 16.76
+        },
+        {
+          "pos": 9,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 19.86
+        },
+        {
+          "pos": 10,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 21.23
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 19,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1.02
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 9.73
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 10.37
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 10.94
+        },
+        {
+          "pos": 6,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 11.85
+        },
+        {
+          "pos": 7,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 16.29
+        },
+        {
+          "pos": 8,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 16.99
+        },
+        {
+          "pos": 9,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 19.73
+        },
+        {
+          "pos": 10,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 21.68
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 20,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1.47
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 10.14
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 10.9
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 11.42
+        },
+        {
+          "pos": 6,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 12.01
+        },
+        {
+          "pos": 7,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 16.58
+        },
+        {
+          "pos": 8,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 17.52
+        },
+        {
+          "pos": 9,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 20.36
+        },
+        {
+          "pos": 10,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 21.87
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 21,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1.73
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 10.81
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 11.42
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 12.7
+        },
+        {
+          "pos": 6,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 12.76
+        },
+        {
+          "pos": 7,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 17.23
+        },
+        {
+          "pos": 8,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 18.1
+        },
+        {
+          "pos": 9,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 20.76
+        },
+        {
+          "pos": 10,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 22.45
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 22,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1.44
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 11.31
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 11.91
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 13.13
+        },
+        {
+          "pos": 6,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 13.94
+        },
+        {
+          "pos": 7,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 17.71
+        },
+        {
+          "pos": 8,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 18.44
+        },
+        {
+          "pos": 9,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 20.88
+        },
+        {
+          "pos": 10,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 22.95
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 23,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1.04
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 11.73
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 12.39
+        },
+        {
+          "pos": 5,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 13.14
+        },
+        {
+          "pos": 6,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 14.08
+        },
+        {
+          "pos": 7,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 18.59
+        },
+        {
+          "pos": 8,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 19.09
+        },
+        {
+          "pos": 9,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 21.49
+        },
+        {
+          "pos": 10,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 23.02
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 24,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 0.62
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 11.94
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 12.5
+        },
+        {
+          "pos": 5,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 14.2
+        },
+        {
+          "pos": 6,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 17.73
+        },
+        {
+          "pos": 7,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 18.93
+        },
+        {
+          "pos": 8,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 19.47
+        },
+        {
+          "pos": 9,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 21.49
+        },
+        {
+          "pos": 10,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 22.89
+        }
+      ],
+      "events": [
+        {
+          "type": "pit_stop",
+          "driver": "LEC",
+          "text": "Leclerc into the pits and that's a crucial stop for the Ferrari man, he's switched to the intermediates, a bold move as the track is still drying. He'll be hoping to undercut the cars ahead, but it's a gamble, the intermediates may not be the best tyre for the current conditions. The Mercedes and Red Bull cars are still out on the mediums, will Leclerc's strategy pay off or will he struggle for grip."
+        }
+      ]
+    },
+    {
+      "lap": 25,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1.03
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 12.38
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 13.09
+        },
+        {
+          "pos": 5,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 13.89
+        },
+        {
+          "pos": 6,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 19.38
+        },
+        {
+          "pos": 7,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 19.92
+        },
+        {
+          "pos": 8,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 21.43
+        },
+        {
+          "pos": 9,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 22.86
+        },
+        {
+          "pos": 10,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 31.33
+        }
+      ],
+      "events": [
+        {
+          "type": "pit_stop",
+          "driver": "HUL",
+          "text": "Hulkenberg's dived into the pits, taking on a fresh set of intermediates, a bold move considering the track's still drying. This could be a clever undercut, getting him out of the dirty air and potentially allowing him to pick up some pace. He's got to make these tyres work if he's to make any ground on the midfield pack."
+        }
+      ]
+    },
+    {
+      "lap": 26,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 0.74
+        },
+        {
+          "pos": 3,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 12.4
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 13.16
+        },
+        {
+          "pos": 5,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 13.73
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 21.27
+        },
+        {
+          "pos": 7,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 22.54
+        },
+        {
+          "pos": 8,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 24.42
+        },
+        {
+          "pos": 9,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 26.22
+        },
+        {
+          "pos": 10,
+          "driver": "BEA",
+          "team": "Haas F1 Team",
+          "gap": 35.85
+        }
+      ],
+      "events": [
+        {
+          "type": "pit_stop",
+          "driver": "COL",
+          "text": "Colton's in, that's a surprise move, he's ditched the worn softs for a set of intermediates, clearly the team think the grip is starting to go. He's dropped down the order but those fresh tyres could give him a boost, we'll see how they perform. The intermediates are a gamble, but if it pays off he could start making his way back through the field."
+        }
+      ]
+    },
+    {
+      "lap": 27,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 0.74
+        },
+        {
+          "pos": 3,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 12.9
+        },
+        {
+          "pos": 4,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 14.36
+        },
+        {
+          "pos": 5,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 15.25
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 24.06
+        },
+        {
+          "pos": 7,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 32.15
+        },
+        {
+          "pos": 8,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 35.63
+        },
+        {
+          "pos": 9,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 37.01
+        },
+        {
+          "pos": 10,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 45.82
+        }
+      ],
+      "events": [
+        {
+          "type": "pit_stop",
+          "driver": "ALO",
+          "text": "Alonso dived into the pits for a set of fresh intermediates, looking to get out of the dirty air and find some pace. The Aston Martin man was struggling to make progress, so this stop could be the catalyst for a late charge. He's rejoined down in eighth, but those new tyres could give him the grip he needs to start making up ground."
+        },
+        {
+          "type": "pit_stop",
+          "driver": "BEA",
+          "text": "Bea's in for fresh tyres, switching to the intermediates, that's an interesting call given the track conditions. He's looking to undercut the midfield pack, but it's a gamble, the intermediates might not be the best choice for the current pace. This could either pay off handsomely or leave him struggling to make progress, we'll have to wait and see how it plays out."
+        },
+        {
+          "type": "pit_stop",
+          "driver": "HAM",
+          "text": "Hamilton's in, a crucial pit stop for the seven time world champion, and he's taken on the intermediate tyres. That's an interesting choice, the track is still damp in places but drying rapidly, will it pay off for the Mercedes man. He's dropped down the order for now, but fresh rubber could give him a chance to push on and make up ground."
+        },
+        {
+          "type": "pit_stop",
+          "driver": "HUL",
+          "text": "Hulkenberg's dived into the pits, swapping to a fresh set of intermediates, a bold move by the Haas team. He's trying to undercut the cars ahead, but it's a high-risk strategy on a track that's still damp in places. The German will be hoping to make the most of his new tyres and start making his way back up the order."
+        },
+        {
+          "type": "pit_stop",
+          "driver": "PER",
+          "text": "Perez has just dived into the pits for a set of fresh intermediates, a crucial move as the Mexican looks to get back into the points. He's currently running outside the top ten, but those new boots should give him a bit of a boost, especially if the circuit starts to dry out. The question now is can he make up some ground and get back into the fray."
+        },
+        {
+          "type": "pit_stop",
+          "driver": "PIA",
+          "text": "Pia's in for a tyre change, switching to the intermediates, that's a bold move by the McLaren team. He's looking to undercut the cars ahead, but it's a gamble on the tyre compound, the intermediates might not be the best choice for the current conditions. He's dropped down the order for now, but this could pay off if the rain intensifies around Interlagos."
+        },
+        {
+          "type": "pit_stop",
+          "driver": "SAI",
+          "text": "Sainz has just dived into the pits, swapping his worn tyres for a fresh set of intermediates, a bold move considering the track is still damp in places. This could be a strategic play by the Ferrari team, trying to undercut some of the midfield runners, but it's a gamble with the intermediates, will they come into play. The Spanish driver will be looking to make the most of his new tyres and carve his way back through the field."
+        },
+        {
+          "type": "pit_stop",
+          "driver": "ZHO",
+          "text": "Zhao coming in for a set of fresh intermediates, trying to get out of the dirty air and find some pace, the Chinese driver looking to make up some ground after a tricky start. He's been struggling for grip on the worn tyres, so this stop could be just what he needs to get back in the mix. Meanwhile, the top five remain unchanged, with Russell still leading the way for the Mercedes."
+        }
+      ]
+    },
+    {
+      "lap": 28,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1.52
+        },
+        {
+          "pos": 3,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 9.18
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 12.54
+        },
+        {
+          "pos": 5,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 16.96
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 18.72
+        },
+        {
+          "pos": 7,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 21.01
+        },
+        {
+          "pos": 8,
+          "driver": "LAW",
+          "team": "RB",
+          "gap": 35.63
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 37.91
+        },
+        {
+          "pos": 10,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 39.09
+        }
+      ],
+      "events": [
+        {
+          "type": "pit_stop",
+          "driver": "LAW",
+          "text": "Lawrence has dived into the pits, swapping his worn tyres for a fresh set of intermediates, trying to get some grip back. The Red Bull driver was struggling out there, now he's got a new lease of life, but he's still got a big gap to make up to the leaders. He's dropped down the order for now, but those fresh tyres could bring him back into contention."
+        },
+        {
+          "type": "pit_stop",
+          "driver": "NOR",
+          "text": "Norris is in, a crucial pit stop for the McLaren man, he's swapped to the intermediates, a bold move as the track is still drying. He's looking to undercut the leader, Russell, who's still out on worn tyres, this could be a turning point in the race. The intermediates are a gamble, but if they work, Norris could be right back in the mix for the win."
+        },
+        {
+          "type": "pit_stop",
+          "driver": "RUS",
+          "text": "RUS has just made his pit stop, bolting on a set of intermediates, an interesting choice given the dry conditions, but clearly the Mercedes team think it's the right call to cover off the undercut from NOR. He's rejoined the track, still in the lead, but NOR is now right on his tail, just 1.5 seconds back. The question is, can RUS make these intermediates work and maintain his advantage over the McLaren."
+        },
+        {
+          "type": "pit_stop",
+          "driver": "TSU",
+          "text": "Tsunoda's in, a crucial pit stop for the Japanese driver, he's taken on a set of intermediates, trying to get some fresh grip to haul himself back up the order. He was struggling on those worn mediums, now it's a case of can he make the most of this new rubber. The intermediates could be the way to go, the track's still a bit damp in places, so an interesting call by the Red Bull strategists."
+        },
+        {
+          "type": "pit_stop",
+          "driver": "ZHO",
+          "text": "Zhao's come in for a set of intermediates, a bold move on a track that's still drying, will it pay off for the Chinese driver. He's looking to undercut the cars ahead, but for now he's dropped down the order, plenty of work to do to get back in the points. The intermediates could be the way to go, but it's a gamble, we'll see how it plays out."
+        }
+      ]
+    },
+    {
+      "lap": 29,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 7.55
+        },
+        {
+          "pos": 3,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 10.97
+        },
+        {
+          "pos": 4,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 12.97
+        },
+        {
+          "pos": 5,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 13.97
+        },
+        {
+          "pos": 6,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 22.37
+        },
+        {
+          "pos": 7,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 27.27
+        },
+        {
+          "pos": 8,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 30.16
+        },
+        {
+          "pos": 9,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 37.54
+        },
+        {
+          "pos": 10,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 38.55
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 30,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 5.28
+        },
+        {
+          "pos": 3,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 8.72
+        },
+        {
+          "pos": 4,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 11.22
+        },
+        {
+          "pos": 5,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 13.06
+        },
+        {
+          "pos": 6,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 16.91
+        },
+        {
+          "pos": 7,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 19.02
+        },
+        {
+          "pos": 8,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 25.13
+        },
+        {
+          "pos": 9,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 29.59
+        },
+        {
+          "pos": 10,
+          "driver": "ALO",
+          "team": "Aston Martin",
+          "gap": 38.44
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 31,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 126.84
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 128.41
+        },
+        {
+          "pos": 5,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 132.72
+        },
+        {
+          "pos": 6,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 134.75
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 137.12
+        },
+        {
+          "pos": 8,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 138.94
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 140.81
+        },
+        {
+          "pos": 10,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 143.67
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 32,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 211.71
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 213.28
+        },
+        {
+          "pos": 5,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 217.6
+        },
+        {
+          "pos": 6,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 219.63
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 221.99
+        },
+        {
+          "pos": 8,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 223.81
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 225.69
+        },
+        {
+          "pos": 10,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 228.55
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 33,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 296.58
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 298.16
+        },
+        {
+          "pos": 5,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 302.47
+        },
+        {
+          "pos": 6,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 304.5
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 306.86
+        },
+        {
+          "pos": 8,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 308.69
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 310.56
+        },
+        {
+          "pos": 10,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 313.42
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 34,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 385.97
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 388.52
+        },
+        {
+          "pos": 5,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 395.97
+        },
+        {
+          "pos": 6,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 401.39
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 401.93
+        },
+        {
+          "pos": 8,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 407.66
+        },
+        {
+          "pos": 9,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 408.11
+        },
+        {
+          "pos": 10,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 411.67
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 35,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 472.89
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 476.52
+        },
+        {
+          "pos": 5,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 484.72
+        },
+        {
+          "pos": 6,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 490.61
+        },
+        {
+          "pos": 7,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 490.72
+        },
+        {
+          "pos": 8,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 496.8
+        },
+        {
+          "pos": 9,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 499.99
+        },
+        {
+          "pos": 10,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 501.55
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 36,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 558.66
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 563.03
+        },
+        {
+          "pos": 5,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 571.37
+        },
+        {
+          "pos": 6,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 577.49
+        },
+        {
+          "pos": 7,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 577.96
+        },
+        {
+          "pos": 8,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 584.27
+        },
+        {
+          "pos": 9,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 589.05
+        },
+        {
+          "pos": 10,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 589.43
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 37,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 643.93
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 648.32
+        },
+        {
+          "pos": 5,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 656.66
+        },
+        {
+          "pos": 6,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 663.3
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 663.38
+        },
+        {
+          "pos": 8,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 670.33
+        },
+        {
+          "pos": 9,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 675.48
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 675.97
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 38,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 728.53
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 732.71
+        },
+        {
+          "pos": 5,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 741.89
+        },
+        {
+          "pos": 6,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 748.27
+        },
+        {
+          "pos": 7,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 748.58
+        },
+        {
+          "pos": 8,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 755.21
+        },
+        {
+          "pos": 9,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 760.66
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 761.75
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 39,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 812.95
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 818.01
+        },
+        {
+          "pos": 5,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 832.13
+        },
+        {
+          "pos": 6,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 841.3
+        },
+        {
+          "pos": 7,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 842.3
+        },
+        {
+          "pos": 8,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 851.05
+        },
+        {
+          "pos": 9,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 857.0
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 858.76
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 40,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 945.12
+        },
+        {
+          "pos": 5,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 947.45
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 952.88
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 958.57
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 958.9
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 966.68
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 970.3
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 41,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 1070.63
+        },
+        {
+          "pos": 5,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 1072.55
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 1078.85
+        },
+        {
+          "pos": 7,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1084.04
+        },
+        {
+          "pos": 8,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 1084.39
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 1092.28
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 1095.63
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 42,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 1214.18
+        },
+        {
+          "pos": 5,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 1215.51
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 1219.78
+        },
+        {
+          "pos": 7,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1221.73
+        },
+        {
+          "pos": 8,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 1223.44
+        },
+        {
+          "pos": 9,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 1225.02
+        },
+        {
+          "pos": 10,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 1226.57
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 43,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 1301.19
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 1301.54
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 1307.31
+        },
+        {
+          "pos": 7,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1312.77
+        },
+        {
+          "pos": 8,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 1313.13
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 1315.36
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 1316.63
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 44,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 1385.07
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 1386.04
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 1392.19
+        },
+        {
+          "pos": 7,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1398.38
+        },
+        {
+          "pos": 8,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 1398.47
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 1400.56
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 1403.18
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 45,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 1467.95
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 1469.81
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 1476.28
+        },
+        {
+          "pos": 7,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1482.82
+        },
+        {
+          "pos": 8,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 1482.93
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 1484.95
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 1488.16
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 46,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 1551.06
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 1553.21
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 1559.79
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 1567.31
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1567.7
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 1571.98
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 1572.95
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 47,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 1633.51
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 1636.15
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 1643.29
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 1650.15
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1652.18
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 1656.13
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 1657.35
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 48,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 1715.8
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 1719.08
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 1726.82
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 1732.9
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1736.17
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 1739.66
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 1741.64
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 49,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 1798.04
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 1802.08
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 1810.0
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 1815.45
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1819.44
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 1822.99
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 1825.59
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 50,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 1880.08
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 1884.77
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 1893.03
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 1898.15
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1902.81
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 1906.71
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 1909.18
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 51,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 1962.39
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 1967.93
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 1976.03
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 1980.81
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 1986.25
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 1990.21
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 1992.9
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 52,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 2044.77
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 2050.5
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 2058.95
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 2063.76
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 2069.6
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 2073.35
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 2077.44
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 53,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 2127.02
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 2133.06
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 2141.46
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 2146.19
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 2153.22
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 2156.47
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 2160.98
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 54,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 2209.27
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 2215.88
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 2224.2
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 2228.97
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 2236.04
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 2239.42
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 2244.49
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 55,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 2291.56
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 2298.55
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 2306.95
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 2311.49
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 2318.75
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 2322.13
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 2327.61
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 56,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 2373.56
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 2381.35
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 2389.7
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 2393.99
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 2401.73
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 2404.86
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 2410.67
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 57,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 2455.42
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 2463.81
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 2472.16
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 2476.8
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 2484.14
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 2487.37
+        },
+        {
+          "pos": 10,
+          "driver": "TSU",
+          "team": "RB",
+          "gap": 2493.44
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 58,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 2537.21
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 2546.21
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 2554.55
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 2559.23
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 2566.56
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 2569.39
+        },
+        {
+          "pos": 10,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 2575.91
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 59,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 2618.76
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 2628.37
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 2636.96
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 2641.4
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 2648.7
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 2651.28
+        },
+        {
+          "pos": 10,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 2658.09
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 60,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 2700.09
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 2710.48
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 2719.05
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 2723.45
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 2730.46
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 2732.91
+        },
+        {
+          "pos": 10,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 2740.2
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 61,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 2781.42
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 2792.76
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 2801.27
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 2805.61
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 2812.21
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 2814.82
+        },
+        {
+          "pos": 10,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 2822.33
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 62,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 2862.49
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 2874.8
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 2883.37
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 2887.75
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 2894.75
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 2896.61
+        },
+        {
+          "pos": 10,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 2904.55
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 63,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 2943.72
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 2956.82
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 2965.19
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 2969.66
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 2976.55
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 2978.29
+        },
+        {
+          "pos": 10,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 2986.76
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 64,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 3024.75
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 3038.59
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 3046.9
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 3051.44
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 3058.08
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 3059.97
+        },
+        {
+          "pos": 10,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 3068.6
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 65,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 3105.74
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 3120.41
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 3128.72
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 3133.29
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 3139.72
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 3141.72
+        },
+        {
+          "pos": 10,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 3150.44
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 66,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 3186.86
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 3202.33
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 3210.37
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 3214.94
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 3221.74
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 3223.85
+        },
+        {
+          "pos": 10,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 3232.33
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 67,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 3267.33
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 3284.44
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 3292.15
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 3296.82
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 3303.26
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 3305.82
+        },
+        {
+          "pos": 10,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 3314.61
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 68,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 3348.88
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 3366.4
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 3374.03
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 3378.63
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 3385.14
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 3387.49
+        },
+        {
+          "pos": 10,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 3396.33
+        }
+      ],
+      "events": []
+    },
+    {
+      "lap": 69,
+      "standings": [
+        {
+          "pos": 1,
+          "driver": "HUL",
+          "team": "Haas F1 Team",
+          "gap": 0.0
+        },
+        {
+          "pos": 2,
+          "driver": "COL",
+          "team": "Williams",
+          "gap": 69.32
+        },
+        {
+          "pos": 3,
+          "driver": "SAI",
+          "team": "Ferrari",
+          "gap": 881.4
+        },
+        {
+          "pos": 4,
+          "driver": "VER",
+          "team": "Red Bull Racing",
+          "gap": 3430.2
+        },
+        {
+          "pos": 5,
+          "driver": "OCO",
+          "team": "Alpine",
+          "gap": 3448.66
+        },
+        {
+          "pos": 6,
+          "driver": "GAS",
+          "team": "Alpine",
+          "gap": 3456.47
+        },
+        {
+          "pos": 7,
+          "driver": "RUS",
+          "team": "Mercedes",
+          "gap": 3460.82
+        },
+        {
+          "pos": 8,
+          "driver": "NOR",
+          "team": "McLaren",
+          "gap": 3466.96
+        },
+        {
+          "pos": 9,
+          "driver": "LEC",
+          "team": "Ferrari",
+          "gap": 3470.48
+        },
+        {
+          "pos": 10,
+          "driver": "PIA",
+          "team": "McLaren",
+          "gap": 3477.86
+        }
+      ],
+      "events": []
+    }
+  ]
+}
